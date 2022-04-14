@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This file was created by G+Smo 21.12.0-->
+<xml>
+ <Matrix rows="4" cols="8" id="0">0.25 27 0.3021093387564119 5.328821826997012 100.1718916817241 1.244726887785738 4.666801187919348e-310 0.70712 
+0.125 119 0.0406650198771502 1.032923603144335 34.18969619723882 0.3029118638419517 0 1.41424 
+0.0625 495 0.001138515492246844 0.06124663410385153 5.596223155069119 0.02434520483650978 9.569767205403138e-315 2.82848 
+0.03125 2015 5.413855893562179e-05 0.006060295466517317 1.229352421109228 0.003004303347505116 0 5.65696 
+</Matrix>
+ <string label="Label" id="1">Meshsize, dofs, l2err, h1err, h2err, iFaceErr, cond_num, (penalty)</string>
+ <string label="Degree" id="2">3</string>
+ <string label="Regularity" id="3">2</string>
+ <string label="NumRefine" id="4">3</string>
+ <string label="Method" id="5">3</string>
+</xml>
+

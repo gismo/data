@@ -1,0 +1,7 @@
+# avoiding files/folders
+*.pdf
+*.tex
+tikz_figures/*
+tikz_files/*
+
+biharmonic_bvp_example.xml
